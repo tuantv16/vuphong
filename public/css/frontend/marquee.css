@@ -1,0 +1,14 @@
+div.marquee {
+    white-space: no-wrap;
+    overflow: hidden;
+    color: #337ab7;
+    font-weight: bold;
+}
+
+div.marquee>div.marquee-text {
+    white-space: nowrap;
+    display: inline;
+    width: auto;
+    font-size: 14px;
+}
+

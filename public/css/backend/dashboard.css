@@ -1,0 +1,15 @@
+.active_event {
+    background: #0d1214;
+    border-left-color: #009688;
+    text-decoration: none;
+    color: #fff;
+}
+
+.form-group label {
+	color: #009688;
+	font-weight: bold
+}
+
+.tile-title {
+	color: #009688;
+}

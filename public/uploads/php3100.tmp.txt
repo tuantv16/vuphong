@@ -1,0 +1,3 @@
+﻿https://stackoverflow.com/questions/33100577/broken-responsive-design-on-iphone-only-can-media-queries-be-forced-with-jav
+
+demo menu bootrap 4

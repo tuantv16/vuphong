@@ -1,0 +1,41 @@
+﻿-Truy cập FtpCute
+ftp.freevnn.com / freev_25001721 / vantuant
+password: vantuant
+Main Hosting Details
+Control panel username
+freev_25001721
+Control panel password	**********
+Control panel URL
+cpanel.freevnn.com
+MySQL username
+freev_25001721
+MySQL password
+**********
+MySQL hostname
+sql308.freevnn.com
+FTP username
+freev_25001721
+FTP password
+**********
+FTP host name	ftp.freevnn.com
+
+
+Your Website URL's
+Home page
+http://thpt-lytutrong.freevnn.com
+
+
+Main Domain	thpt-lytutrong.freevnn.com
+FTP hostname:	ftpupload.net
+FTP username:	freev_25001721
+MySQL hostname:	sql308.freevnn.com
+MySQL username:	freev_25001721
+Hosting Volume	vol5_1
+Home Directory:
+/home/vol5_1/freevnn.com/freev_25001721
+
+
+MySQL DB Name : freev_25001721_school
+MySQL User Name: freev_25001721
+MySQL Password: Để trắng
+MySQL Host Name: sql308.freevnn.com

@@ -1,0 +1,11 @@
+﻿
+Ctrl+M	Đi tới dấu đóng ngoặc gần nhất - Lặp lại để đi tới dấu mở ngoặc
+Ctrl+Shift+M	Chọn toàn bộ nội dung trong dấu ngoặc
+
+Ctrl+Shift+K	Xóa toàn bộ dòng
+Ctrl+]	Lùi dòng hiện tại vào trong 1 tab
+Ctrl+[	Lùi dòng hiện tại ra ngoài 1 tab
+
+Ctr+K+U: In hoa chữ
+
+Ctrl+Shift+F: Tìm keyword trong toàn bộ dự án
